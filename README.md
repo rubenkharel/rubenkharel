@@ -10,7 +10,8 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
-Updating soon...
+[![Currently Working On](http://54.175.170.144:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
+<br />
 <em>[beta version](https://github.com/rubenkharel/github-vscode-rich-presence-extension)</em>
 <br />
 ### Stuff I play with!
