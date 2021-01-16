@@ -12,7 +12,7 @@ You can Follow me on:<br />
 ### What I am up to?
 [![Currently Working On](http://54.175.170.144:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
 <br />
-<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) [Server](https://github.com/rubenkharel/vscode-github-rich-presence)</em> 
+<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence)</em> 
 <br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
