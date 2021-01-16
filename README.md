@@ -10,7 +10,7 @@ You can Follow me on:<br />
 [![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
-[![Currently Working On](http://34.224.62.110:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
+[![Currently Working On](http://161.97.66.38:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
 <br />
 <em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence)</em> 
 <br />
