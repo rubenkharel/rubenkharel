@@ -1,5 +1,5 @@
 
-## Hello there [![hi!][https://i.imgur.com/mFjT9MO.gif]](https://isha.sadhguru.org/global/en/wisdom/article/namaskar-namaste-what-does-it-mean)
+## Hello there [![hi!](https://i.imgur.com/mFjT9MO.gif)](https://isha.sadhguru.org/global/en/wisdom/article/namaskar-namaste-what-does-it-mean)
 *Welcome, I'm Ruben Kharel!* <br />
 *Student at [Islington College](https://islington.edu.np)* <br />
 *WebDev at* [Nassec.io](https://nassec.io/) <br />
