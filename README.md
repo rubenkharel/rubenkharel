@@ -1,6 +1,12 @@
 
 ## Hello there [![hi!](https://i.imgur.com/r2Un8CD.gif)](https://is.gd/rub3nk)
 
+### Follow me on 
+[![Spotify!](https://raster.shields.io/badge/Spotify--green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/haxefkq2cr2qzaeq2v2yksxcr)
+[![Lastfm!](https://raster.shields.io/badge/Lastfm--green?style=for-the-badge&logo=lastfm)](https://www.last.fm/user/m4h4d3v4)
+
+
+
 ### What I am up to?
 [![Currently Working On](http://161.97.66.38:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
 <br />
