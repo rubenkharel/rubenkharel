@@ -1,13 +1,5 @@
 
 ## Hello there [![hi!](https://i.imgur.com/r2Un8CD.gif)](https://is.gd/rub3nk)
-*Welcome, I'm Ruben Kharel!* <br />
-*Student at [Islington College](https://islington.edu.np)* <br />
-*WebDev at* [Nassec.io](https://nassec.io/) <br />
-
-You can Follow me on:<br />
-[![DEV Profile!](https://raster.shields.io/badge/Dev.to--black?style=for-the-badge&logo=dev.to)](https://dev.to/rubenk) 
-[![Twitter!](https://raster.shields.io/badge/Twitter--skyblue?style=for-the-badge&logo=twitter)](https://twitter.com/rub3nkhar3l) 
-[![Linkedin!](https://raster.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenkharel/) 
 
 ### What I am up to?
 [![Currently Working On](http://161.97.66.38:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
