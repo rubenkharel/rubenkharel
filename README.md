@@ -3,7 +3,7 @@
 
 ### Follow me on 
 [![Spotify!](https://raster.shields.io/badge/Spotify--green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/haxefkq2cr2qzaeq2v2yksxcr)
-[![Lastfm!](https://raster.shields.io/badge/Lastfm--red?style=for-the-badge&logo=lastfm)](https://www.last.fm/user/m4h4d3v4)
+[![Lastfm!](https://raster.shields.io/badge/Lastfm--red?style=for-the-badge&logo=last-fm)](https://www.last.fm/user/m4h4d3v4)
 
 
 
