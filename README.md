@@ -10,7 +10,7 @@
 ### What I am up to?
 [![Currently Working On](http://161.97.66.38:9998/img.jpeg)](https://github.com/rubenkharel/github-vscode-rich-presence-extension)
 <br />
-<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence)</em> 
+<em>Plugin Detail: [Extension](https://marketplace.visualstudio.com/items?itemName=rubenkharel.github-vscode-richpresence) / [Server](https://github.com/rubenkharel/vscode-github-rich-presence) / VIM plugin coming soon... Started using VIM</em> 
 <br />
 ### Stuff I play with!
 [![Python!](https://raster.shields.io/badge/Python--blue?style=for-the-badge&logo=python)](https://github.com/rubenkharel) 
