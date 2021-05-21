@@ -29,7 +29,6 @@
 [![Git!](https://raster.shields.io/badge/Git--critical?style=for-the-badge&logoColor=orange&logo=git)](https://github.com/rubenkharel) 
 [![GithubAction!](https://raster.shields.io/badge/CD_CI--9fc?style=for-the-badge&logoColor=deepskyblue&logo=github-actions)](https://github.com/rubenkharel) 
 [![Linux!](https://raster.shields.io/badge/Linux--green?style=for-the-badge&logoColor=white&logo=linux)](https://github.com/rubenkharel) 
-[![BugBounty!](https://raster.shields.io/badge/Bug_Bounty--green?style=for-the-badge&logo=hackerone)](https://github.com/rubenkharel) 
 ### Currently Learning <br />
 [![Typescript!](https://raster.shields.io/badge/Typescript--blue?style=for-the-badge&logo=typescript)](https://github.com/rubenkharel) 
 <br />
